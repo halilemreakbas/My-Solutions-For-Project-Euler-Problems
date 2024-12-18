@@ -12,4 +12,4 @@ for i in range(1, 1000):
     if i % 3 == 0 or i % 5 == 0: 
         total += i  # add to total
 
-print(total)
+print(total) # so the answer is  "233168"
