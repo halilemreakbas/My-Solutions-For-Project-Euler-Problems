@@ -4,3 +4,12 @@
 # Step 1: Loop through all numbers from 1 to 999.
 # Step 2: For each number, check if it is divisible by 3 or 5 using the modulus operator (%).
 # Step 3: If the number is divisible by either, add it to the total sum.
+
+total = 0  # Total sum
+
+# 1 to 999 range <1000
+for i in range(1, 1000):
+    if i % 3 == 0 or i % 5 == 0: 
+        total += i  # add to total
+
+print(total)
