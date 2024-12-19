@@ -24,10 +24,10 @@ Each problem has its own file in the `solutions/` folder. The files are named as
 | 2              | Even Fibonacci numbers            | [problem_2.py](solutions/problem_2.py) |
 | 3              | Largest prime factor              | [problem_3.py](solutions/problem_3.py) |
 | 4              | Largest Palindrome Product        | [problem_4.py](solutions/problem_4.py) |
-|
-|
-|
-|
+| 5              | Smallest Multiple                 | [problem_5.py](solutions/problem_5.py) |
+| 6              | Sum Square Difference             | [problem_6.py](solutions/problem_6.py) |
+| 7              | 10001st Prime                     | [problem_7.py](solutions/problem_7.py) |
+| 8              | Largest Product in a Series       | [problem_8.py](solutions/problem_8.py) |
 
 
 
